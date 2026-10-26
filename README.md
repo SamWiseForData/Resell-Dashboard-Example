@@ -6,9 +6,9 @@
    This is a copy of my real sales data, which I use for my clothing resale business.
    The dashboard is how I begin to study trends, inform myself on what brands to buy, and see what my profit margins are.
 
-   ![Sales Dashboard](screenshot.png)
+   ![Sales Dashboard](screenshot.PNG)
 
    ## Run it
    1. `pip install -r requirements.txt`
-   2. `python dashboard.py`
+   2. `Resell Dashboard Example.py`
    3. Open http://127.0.0.1:8050
